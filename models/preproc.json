@@ -1,0 +1,47 @@
+{
+  "data_file": "Historico25-26.csv",
+  "trained_at": "2026-03-06T14:31:57.620723",
+  "levels": {
+    "Bloque": [
+      "AGUADA DEL CHAÑAR",
+      "BAJO DEL TORO",
+      "BANDURRIA SUR",
+      "BARREAL GRANDE",
+      "CHAÑAR GRANDE",
+      "ENTRE LAGOS",
+      "LA AMARGA CHICA",
+      "LA ANGOSTURA SUR",
+      "LOMA CAMPANA",
+      "NARAMBUENA",
+      "RINCON DEL MANGRULLO SUR",
+      "nan"
+    ],
+    "CIA": [
+      "HASA",
+      "SLB"
+    ]
+  },
+  "gam_cols": [
+    "CaudalPromedio_BPM",
+    "PresionPromedio_PSI",
+    "ISIP_post",
+    "Tapon_m",
+    "Cluster",
+    "Disparos",
+    "Bloque_AGUADA DEL CHAÑAR",
+    "Bloque_BAJO DEL TORO",
+    "Bloque_BANDURRIA SUR",
+    "Bloque_BARREAL GRANDE",
+    "Bloque_CHAÑAR GRANDE",
+    "Bloque_ENTRE LAGOS",
+    "Bloque_LA AMARGA CHICA",
+    "Bloque_LA ANGOSTURA SUR",
+    "Bloque_LOMA CAMPANA",
+    "Bloque_NARAMBUENA",
+    "Bloque_RINCON DEL MANGRULLO SUR",
+    "Bloque_nan",
+    "CIA_HASA",
+    "CIA_SLB"
+  ],
+  "mpa_rate_global": 9.3
+}
